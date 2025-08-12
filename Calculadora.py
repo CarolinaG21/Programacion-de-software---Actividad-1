@@ -4,3 +4,6 @@ def Sumar(num1: int, num2: int)-> int:
 
 a = Sumar(10,21)
 print(a)
+
+b = Sumar(10,11)
+print(b)
